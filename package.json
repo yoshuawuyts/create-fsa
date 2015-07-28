@@ -1,0 +1,31 @@
+{
+  "name": "create-fsa",
+  "version": "1.0.0",
+  "description": "Create a flux-standard-action from a value",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && NODE_ENV=test node test",
+    "test-cov": "standard && NODE_ENV=test istanbul cover test.js",
+    "watch": "watch 'npm t'"
+  },
+  "repository": "yoshuawuyts/create-fsa",
+  "keywords": [
+    "flux-standard-action",
+    "flux",
+    "dispatcher",
+    "action"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.17",
+    "standard": "^4.5.4",
+    "tape": "^4.0.1",
+    "watch": "^0.16.0"
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
