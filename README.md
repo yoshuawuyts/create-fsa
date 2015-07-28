@@ -45,7 +45,6 @@ from a value.
 
 ## See Also
 - [flux-standard-action](https://github.com/acdlite/flux-standard-action)
-- [redux-actions](https://github.com/acdlite/redux-actions)
 - [barracks](https://github.com/yoshuawuyts/barracks)
 
 ## License
