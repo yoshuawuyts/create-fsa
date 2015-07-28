@@ -44,8 +44,8 @@ Create a [flux-standard-action](https://github.com/acdlite/flux-standard-action)
 from a value.
 
 ## See Also
-- [flux-standard-action](https://github.com/acdlite/flux-standard-action)
-- [barracks](https://github.com/yoshuawuyts/barracks)
+- [flux-standard-action](https://github.com/acdlite/flux-standard-action) - human-friendly standard for Flux action objects
+- [barracks](https://github.com/yoshuawuyts/barracks) - action dispatcher for unidirectional data flows
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
