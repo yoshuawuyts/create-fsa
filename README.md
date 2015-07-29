@@ -54,7 +54,7 @@ from a value.
 [npm-url]: https://npmjs.org/package/create-fsa
 [travis-image]: https://img.shields.io/travis/yoshuawuyts/create-fsa/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/yoshuawuyts/create-fsa
-[codecov-image]: https://img.shields.io/codecov/c/githubyoshuawuyts/create-fsa/master.svg?style=flat-square
+[codecov-image]: https://img.shields.io/codecov/c/github/yoshuawuyts/create-fsa/master.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/yoshuawuyts/create-fsa
 [downloads-image]: http://img.shields.io/npm/dm/create-fsa.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/create-fsa
